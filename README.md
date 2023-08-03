@@ -107,11 +107,5 @@ Admin Zone- Results Declared after Election ended:<br>
 
 
 
-## **Developers**
-+ Sudiksha Navik: sudiksha22@iitk.ac.in
-+ Drashtant Singh Rathod: drashtants22@iitk.ac.in
-+ Shashank Rapolu: ssrapolu20@iitk.ac.in
-
-
 
 
